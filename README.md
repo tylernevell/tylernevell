@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm Tyler Nevell(He/Him): a Front-End JavaScript/TypeScript Engineer!
 
+
+
 - 👯 I’m looking to collaborate on UI/UX Projects, Web Development, and anything related to music!
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylernevell&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
