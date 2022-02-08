@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Tyler Nevell(He/Him): a Front-End JavaScript/TypeScript Engineer!
+
+- 👯 I’m looking to collaborate on UI/UX Projects, Web Development, and anything related to music!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylernevell&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylernevell&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide=c%2B%2B,jupyter%20notebook,python)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tylernevell/tylernevell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylernevell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
