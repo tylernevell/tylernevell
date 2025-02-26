@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Tyler Nevell(He/Him): a Front-End JavaScript/TypeScript Engineer!
+### Hi there 👋 I'm Tyler Nevell: a Front-End JavaScript/TypeScript Engineer!
 
 - 👯 I’m looking to collaborate on Front-End Projects related to music and UI/UX Engineering.
 - 👨‍💻 I program in JavaScript and TypeScript.
